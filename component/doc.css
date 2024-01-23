@@ -1,0 +1,37 @@
+
+@import url(/component/intro.css);
+@import url(/main.css);
+@import url(/component/install.css);
+
+.sidebar{
+  position: fixed;
+  width: 250px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: purple;
+  padding-top: 20px;
+  margin-top: 80px;
+  height: 600px;
+}
+
+.sidebar a{
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  z-index: 2;
+}
+.sidebar h2{
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  font-size: 25px;
+border-bottom-style: solid;
+  margin: 0;
+}

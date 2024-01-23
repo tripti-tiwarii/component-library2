@@ -1,0 +1,15 @@
+@import url(doc.css);
+.content{
+    background: skyblue;
+    margin-left: 20%;
+    display: inline-block;
+    border-top: 50%;
+}
+.btn-container{
+    border: 2px solid black;
+    height: 100px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    left: 100px;
+}
